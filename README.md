@@ -5,7 +5,6 @@
 ![n8n](https://img.shields.io/badge/n8n-Workflow%20Automation-orange)
 ![Bolna AI](https://img.shields.io/badge/Bolna-AI%20Voice-blue)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
@@ -147,6 +146,40 @@ Appointment Confirmed?
 Update  Update
 Confirmed Cancelled
 ```
+
+---
+
+## 📸 Demo
+
+### Workflow
+
+![Workflow](assets/workflow.png)
+
+### Agent Configuration
+
+![Agent Configuration](assets/agent-configuration.png)
+
+### Audio Configuration
+
+![Audio Configuration](assets/agent-audio-configuration.png)
+
+### AI Extractions
+
+![Extractions](assets/extractions.png)
+
+### Successful Workflow Execution
+
+![Execution](assets/execution-success.png)
+
+### Dashboard
+
+![Dashboard](assets/bolna-dashboard.png)
+
+### 🎧 Sample AI Call
+
+A sample appointment confirmation call is available here:
+
+**assets/appointment-confirmation-demo.mp3**
 
 ---
 
