@@ -1,4 +1,4 @@
-# Bolna AI Appointment Reminder Automation
+# ~Bolna AI Appointment Reminder Automation
 
 > AI-powered appointment reminder automation using **Bolna AI**, **n8n**, **PostgreSQL**, and **Postman**.
 

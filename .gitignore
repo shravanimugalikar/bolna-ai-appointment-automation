@@ -1,0 +1,39 @@
+# Environment variables
+.env
+.env.*
+
+# Node.js
+node_modules/
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# JetBrains IDEs
+.idea/
+
+# n8n local data
+.n8n/
+
+# ngrok configuration
+ngrok.yml
+
+# Database dumps
+*.sql.gz
+*.dump
+*.backup
+
+# Temporary files
+*.tmp
+*.temp
+
+# Python cache (if any scripts are added later)
+__pycache__/
+*.pyc
