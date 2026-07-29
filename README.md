@@ -149,11 +149,31 @@ Confirmed Cancelled
 
 ---
 
-## 📸 Demo
+# PostgreSQL Schema
+
+The workflow maintains an appointments table containing:
+
+- Customer Name
+- Phone Number
+- Appointment Status
+- Preferred Day
+- AI Call Summary
+- Transcript
+- Call Duration
+- Total Call Cost
+- Updated Timestamp
+
+---
+
+## Demo
 
 ### Workflow
 
 ![Workflow](assets/workflow.png)
+
+### Dashboard
+
+![Dashboard](assets/bolna-dashboard.png)
 
 ### Agent Configuration
 
@@ -171,11 +191,8 @@ Confirmed Cancelled
 
 ![Execution](assets/execution-success.png)
 
-### Dashboard
 
-![Dashboard](assets/bolna-dashboard.png)
-
-### 🎧 Sample AI Call
+### Sample AI Call
 
 A sample appointment confirmation call is available here:
 
