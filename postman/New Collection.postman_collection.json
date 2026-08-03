@@ -58,7 +58,7 @@
         ],
         "body": {
           "mode": "raw",
-          "raw": "{\r\n  \"agent_id\": \"ed8b2640-a84c-47d9-8dff-6bab729938dc\",\r\n  \"recipient_phone_number\": \"+919852772277\",\r\n  \"user_data\": {\r\n    \"name\": \"Steve\",\r\n    \"appointment_time\": \"tomorrow at 3:00 PM\"\r\n  }\r\n}",
+          "raw": "{\r\n  \"agent_id\": \"ed8b2640-a84c-47d9-8dff-6bab729938dc\",\r\n  \"recipient_phone_number\": \"+91xxxxxxxxxx\",\r\n  \"user_data\": {\r\n    \"name\": \"Steve\",\r\n    \"appointment_time\": \"tomorrow at 3:00 PM\"\r\n  }\r\n}",
           "options": {
             "raw": {
               "language": "json"
